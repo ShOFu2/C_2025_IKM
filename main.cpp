@@ -1,4 +1,4 @@
-﻿// IndProject2.cpp - основной файл программы
+﻿// main.cpp - основной файл программы
 #include "BinaryTree.h" // Для работы с деревом
 #include "FileReader.h" // Для чтения данных
 #include <iostream>     // Для ввода/вывода
