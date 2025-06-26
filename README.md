@@ -1,6 +1,5 @@
-# Binary Tree Builder
+# Построение бинарного дерева по данным из файла
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Coverage](https://img.shields.io/badge/coverage-100%25-yellow)
 ![Status](https://img.shields.io/badge/status-done-green)
 
