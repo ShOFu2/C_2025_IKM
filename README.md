@@ -9,7 +9,7 @@
 
 ## Структура проекта
 ```
-BinaryTreePathBuilder/
+IndProject2/
 ├── BinaryTree/
 │   ├── BinaryTree.cpp
 │   ├── BinaryTree.h
