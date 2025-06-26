@@ -1,7 +1,7 @@
 # Binary Tree Builder
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![Coverage](https://img.shields.io/badge/coverage-85%25-yellow)
+![Coverage](https://img.shields.io/badge/coverage-100%25-yellow)
 ![Status](https://img.shields.io/badge/status-active_development-blue)
 
 Программа для построения бинарных деревьев по заданным путям. Решает задачу визуализации иерархических структур данных на основе пользовательского ввода. Поддерживает обработку ошибок и валидацию входных данных.
